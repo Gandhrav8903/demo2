@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 one two four
 
+=======
+one two three
+>>>>>>> b2
